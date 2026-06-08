@@ -26,7 +26,7 @@ pageindex>=0.1.0
 
 # Task 10 - Generation
 openai>=1.30.0
-# google-generativeai>=0.5.0  # Alternative: Gemini
+google-generativeai>=0.5.0  # Alternative: Gemini
 
 # Group project - UI
 streamlit>=1.35.0
